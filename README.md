@@ -26,7 +26,7 @@ _**11. 🔎Insights Generation:** Derived actionable insights from the visualiza
 
 # _**📌 Business Requirements**_
 
-_The project focuses on:_ 
+_The project focuses on:_
 
 - _Analyzing Blinkit's sales performance._
 - _Evaluating customer satisfaction._
@@ -116,3 +116,4 @@ _**Snapshot of Total Sales:**_
 # _**📝 Conclusion**_
 
 _This project provided actionable insights into Blinkit's sales, customer satisfaction, and inventory distribution. The dashboards enable better decision-making and highlight opportunities for operational optimization._
+
