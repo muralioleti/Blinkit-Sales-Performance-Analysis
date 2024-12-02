@@ -13,15 +13,25 @@ _The primary goal is to analyze Blinkit's operational performance using sales da
 _The project was executed in a structured manner, ensuring data accuracy and insightful outcomes. Below are the steps followed:_
 
 _**1. 🔍Requirement Gathering/Business Requirements:** Defined project scope and identified key KPIs and metrics._
+
 _**2. 👀Data Walkthrough:** Explored and understood the dataset's structure and features._
+
 _**3. Data Connection:** Connected to the dataset in Power BI. 🔗_
+
 _**4. 🧹Data Cleaning/Quality Check:** Ensured data was clean, consistent, and ready for analysis._
+
 _**5. Data Modeling:** Built relationships between tables to enable accurate analysis._
+
 _**6. ⚙️Data Processing:** Transformed and processed data to suit analysis needs._
+
 _**7. DAX Calculations:** Developed custom measures for KPIs and advanced calculations. 🧮_
+
 _**8. Dashboard Layouting:** Designed a user-friendly dashboard layout. 📐_
+
 _**9. 📊Charts Development and Formatting:** Created and formatted meaningful visualizations._
+
 _**10. Dashboard/Report Development:** Integrated charts into dashboards and ensured interactivity. 📈_
+
 _**11. 🔎Insights Generation:** Derived actionable insights from the visualizations._
 
 # _**📌 Business Requirements**_
@@ -36,8 +46,11 @@ _The project focuses on:_
 # _**📋 Key Performance Indicators (KPIs)**_
 
 _**1. 💰Total Sales:** Overall revenue generated from all items sold._
+
 _**2. Average Sales:** Average revenue per sale._
+
 _**3. Number of Items Sold:** Total count of items sold. 📦_
+
 _**4. ⭐Average Rating:** Average customer rating for items sold._
 
 # _**📊 Visualization Details**_
