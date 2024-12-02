@@ -116,4 +116,3 @@ _**Snapshot of Total Sales:**_
 # _**📝 Conclusion**_
 
 _This project provided actionable insights into Blinkit's sales, customer satisfaction, and inventory distribution. The dashboards enable better decision-making and highlight opportunities for operational optimization._
-
