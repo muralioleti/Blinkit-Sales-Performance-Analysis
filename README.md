@@ -26,7 +26,7 @@ _**11. 🔎Insights Generation:** Derived actionable insights from the visualiza
 
 # _**📌 Business Requirements**_
 
-_The project focuses on:_
+_The project focuses on:_ 
 
 - _Analyzing Blinkit's sales performance._
 - _Evaluating customer satisfaction._
