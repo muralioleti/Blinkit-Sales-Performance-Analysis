@@ -1,5 +1,8 @@
 # _**Blinkit Sales Performance Analysis - Dashboard**_
 
+ _**Dashboard Link:** [https://1drv.ms/u/c/137e76a111e334d1/ERNvX5nsIHRJrmyyCIdUkHIBRU0mzRYSgDBzMBHU2Mvsmg?e=nbbTTT](url)_
+
+
 # _**📝 Project Overview**_
 
 _This project is a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution. Using Power BI, we aim to generate actionable insights and optimize key metrics through intuitive visualizations and dashboards._
